@@ -1,0 +1,2 @@
+# Astrala
+Chinese astrology calculator
