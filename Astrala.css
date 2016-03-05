@@ -1,0 +1,49 @@
+/* COLORS
+#E9E379 - pale yellow background
+#087298 - blue text
+#0083B2 - light blue text
+#980023 - main red
+#E51746 - red hovered */
+
+body {
+  min-width: 400px;
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: sans-serif;
+  color: #087298;
+  background: #E9E379; }
+
+header {
+  height: 50px;
+  margin: 0 auto 40px;
+  line-height: 50px;
+  text-align: left;
+  font-size: xx-large;
+  color: white;
+  background: #980023; }
+
+header img { vertical-align: middle; }
+
+header span {
+  float: right;
+  font-size: small;
+  margin-right: 20px; }
+
+button {
+  border: 0;
+  color: white;
+  background: #980023; }
+button:hover { background: #E51746; }
+
+p {
+  font-size: small;
+  color: #0083B2; }
+
+table {
+  width: 300px;
+  margin: 30px auto;
+  border: solid 1px;
+  font-weight: bold; }
+
+th { font-weight: normal; }

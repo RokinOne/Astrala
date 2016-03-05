@@ -1,2 +1,2 @@
 # Astrala
-Chinese astrology calculator
+Astrala is a Chinese astrology calculator
